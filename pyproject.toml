@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "svg-scrub"
+version = "1.0.0"
+description = "Sanitize SVG files and report exactly what was removed, with a CI gate"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+
+[project.scripts]
+svg-scrub = "svg_scrub:main"
+
+[tool.setuptools]
+py-modules = ["svg_scrub"]
