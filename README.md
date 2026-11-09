@@ -1,4 +1,5 @@
 # svg-scrub
+**Live tool:** https://aamirtechs.github.io/svg-scrub/ (runs in your browser, no install)
 
 [![GitHub stars](https://img.shields.io/github/stars/aamirtechs/svg-scrub?style=social)](https://github.com/aamirtechs/svg-scrub/stargazers) [![GitHub forks](https://img.shields.io/github/forks/aamirtechs/svg-scrub?style=social)](https://github.com/aamirtechs/svg-scrub/network/members) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aamirtechs/svg-scrub/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aamirtechs/svg-scrub/issues)
 
